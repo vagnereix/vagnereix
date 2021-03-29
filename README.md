@@ -24,7 +24,7 @@
 <!-- ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=vagnereix&show_icons=true&theme=radical) -->
 ![Anurag's github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=vagnereix&hide=html&layout=compact&theme=dracula)
 
-#### Me encontre por aí! :beer:
+#### See you! :beer:
 
 [<img src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" />](https://twitter.com/vagnereix_)
 [<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/vagner-reis-5547ab136/)
