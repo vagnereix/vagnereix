@@ -9,14 +9,14 @@
 - :boom: Converso sobre universo, ciência e crises existenciais mas não dispenso conversar sobre novelas e bbb 
 -->
 <p>
-  <img src="https://img.shields.io/badge/-Java%20-E9E9E9?logo=java&logoColor=black&style=for-the-badge" />
+  <img src="https://img.shields.io/badge/-java%20-E9E9E9?logo=java&logoColor=black&style=for-the-badge" />
   <img src="https://img.shields.io/badge/javascript-%23F7DF1E.svg?&style=for-the-badge&logo=javascript&logoColor=black" />
   <img src="https://img.shields.io/badge/typescript%20-%23007ACC.svg?&style=for-the-badge&logo=typescript&logoColor=white" />
   <img src="https://img.shields.io/badge/angular%20-%23DD0031.svg?&style=for-the-badge&logo=angular&logoColor=white" />
   <img src="https://img.shields.io/badge/react%20-%2320232a.svg?&style=for-the-badge&logo=react&logoColor=%2361DAFB" />
   <img src="https://img.shields.io/badge/node.js%20-%2343853D.svg?&style=for-the-badge&logo=node.js&logoColor=white" />
   <img src="https://img.shields.io/badge/-html5%20-E34F26?logo=html5&logoColor=white&style=for-the-badge" />
-  <img src="https://img.shields.io/badge/-css%20-1572B6?logo=css3&logoColor=white&style=for-the-badge" />
+  <img src="https://img.shields.io/badge/-css3%20-1572B6?logo=css3&logoColor=white&style=for-the-badge" />
 </p>
 
 ---
