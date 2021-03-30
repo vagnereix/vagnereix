@@ -21,14 +21,59 @@
 
 ---
 
-<!-- ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=vagnereix&show_icons=true&theme=radical) -->
-![Anurag's github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=vagnereix&hide=html&layout=compact&theme=dracula)
+<!-- ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=vagnereix&show_icons=true&theme=radical) 
+![Anurag's github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=vagnereix&hide=html&layout=compact&theme=dracula) -->
 
 #### See you around! :beer:
 
 [<img src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" />](https://twitter.com/vagnereix_)
 [<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/vagner-reis-5547ab136/)
 [<img src="https://img.shields.io/badge/-Instagram-dc5273?style=for-the-badge&logo=Instagram&logoColor=white" />](https://www.instagram.com/vagnereix/)
+
+<center>
+    <tr>
+      <td>
+        <p align="center">
+          <a href="#">
+            <img width="400px" 
+              src="https://github-readme-stats.vercel.app/api?username=vagnereix&show_icons=true&count_private=true&hide_border=true&include_all_commits=true&theme=yeblu" alt="Vagner's github stats" 
+            />
+          </a>
+        </p>
+      </td>
+    </tr>
+      <td>
+        <p align="center">
+          <a href="#">
+            <img width="400px" 
+                 src="https://github-readme-stats.vercel.app/api/top-langs?username=vagnereix&layout=compact&langs_count=20&hide_border=true&theme=yeblu" 
+           />
+          </a>
+        </p>
+      </td>
+    <!-- <tr>
+      <td>
+        <p align="center">
+          <a href="#">
+            <img width="400px" 
+                 src="https://github-readme-stats.vercel.app/api/wakatime?username=vagnereix&hide_border=true&theme=yeblu&langs_count=20&layout=compact&v2" 
+            />
+          </a>
+        </p>
+      </td>
+    </tr> -->
+    <tr>
+      <td>
+        <p align="center">
+          <a href="#">
+            <img width="400px" 
+                 src="https://github-readme-streak-stats.herokuapp.com/?user=vagnereix&hide_border=true&theme=yeblu"
+            />
+          </a>
+        </p>
+      </td>
+    </tr>
+</center>
 
 <!--
 Here are some ideas to get you started:
