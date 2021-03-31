@@ -10,6 +10,7 @@
 - :boom: Converso sobre universo, ciência e crises existenciais mas não dispenso conversar sobre novelas e bbb 
 -->
 
+## Work
 #### Currently I work as a Systems Analyst, working and learning from the following technologies:
 <p>
   <img src="https://img.shields.io/badge/-java%20-E9E9E9?logo=java&logoColor=black&style=for-the-badge" />
@@ -20,6 +21,7 @@
   <img src="https://img.shields.io/badge/-css3%20-1572B6?logo=css3&logoColor=white&style=for-the-badge" />
 </p>
 
+## Learn
 #### Between college and work I'm still learning:
 <p>
   <img src="https://img.shields.io/badge/node.js%20-%2343853D.svg?&style=for-the-badge&logo=node.js&logoColor=white" />
@@ -27,12 +29,13 @@
   <img src="https://img.shields.io/badge/react%20native-%2320232a.svg?&style=for-the-badge&logo=react&logoColor=%2361DAFB" />
 </p>
 
----
+## Spare time
+I appreciate a good coffee, online games and sometimes a little physical activity!
 
 <!-- ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=vagnereix&show_icons=true&theme=radical) 
 ![Anurag's github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=vagnereix&hide=html&layout=compact&theme=dracula) -->
 
-#### Feel free to contact me:
+## Feel free to contact me
 [<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/vagner-reis-5547ab136/)
 [<img src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" />](https://twitter.com/vagnereix_)
 [<img src="https://img.shields.io/badge/-Instagram-dc5273?style=for-the-badge&logo=Instagram&logoColor=white" />](https://www.instagram.com/vagnereix/)
