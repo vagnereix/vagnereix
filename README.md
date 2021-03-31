@@ -14,7 +14,8 @@ I'm a Computer Science student 🎓, a clean, performative and scalable code lov
 #### Currently I work as a Systems Analyst, working and learning from the following technologies:
 <p>
   <img src="https://img.shields.io/badge/-java%20-E9E9E9?logo=java&logoColor=black&style=for-the-badge" />
-  <img src="https://img.shields.io/badge/javascript-%23F7DF1E.svg?&style=for-the-badge&logo=javascript&logoColor=black" />
+  <img src="https://img.shields.io/badge/-spring%20-6DB33F?logo=spring&logoColor=white&style=for-the-badge" />
+  <!-- <img src="https://img.shields.io/badge/javascript-%23F7DF1E.svg?&style=for-the-badge&logo=javascript&logoColor=black" /> -->
   <img src="https://img.shields.io/badge/typescript%20-%23007ACC.svg?&style=for-the-badge&logo=typescript&logoColor=white" />
   <img src="https://img.shields.io/badge/angular%20-%23DD0031.svg?&style=for-the-badge&logo=angular&logoColor=white" />
   <img src="https://img.shields.io/badge/-html5%20-E34F26?logo=html5&logoColor=white&style=for-the-badge" />
@@ -24,9 +25,11 @@ I'm a Computer Science student 🎓, a clean, performative and scalable code lov
 ## Learning 🚀
 #### Between college and work I'm still learning:
 <p>
+  <img src="https://img.shields.io/badge/elixir-%234B275F.svg?&style=for-the-badge&logo=javascript&logoColor=white" />
   <img src="https://img.shields.io/badge/node.js%20-%2343853D.svg?&style=for-the-badge&logo=node.js&logoColor=white" />
   <img src="https://img.shields.io/badge/react%20-%2320232a.svg?&style=for-the-badge&logo=react&logoColor=%2361DAFB" />
   <img src="https://img.shields.io/badge/react%20native-%2320232a.svg?&style=for-the-badge&logo=react&logoColor=%2361DAFB" />
+  <img src="https://img.shields.io/badge/flutter-%2302569B.svg?&style=for-the-badge&logo=flutter&logoColor=white" />
 </p>
 
 ## Spare time 🌴
