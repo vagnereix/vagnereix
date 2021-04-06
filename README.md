@@ -15,8 +15,8 @@ Currently I work as a Systems Analyst, working and learning from the following t
 <p>
   <!--<img src="https://img.shields.io/badge/-java%20-E9E9E9?logo=java&logoColor=black&style=for-the-badge" />-->
   <img src="https://img.shields.io/badge/-spring%20-6DB33F?logo=spring&logoColor=white&style=for-the-badge" />
-  <!--<img src="https://img.shields.io/badge/javascript-%23F7DF1E.svg?&style=for-the-badge&logo=javascript&logoColor=black" />-->
-  <img src="https://img.shields.io/badge/typescript%20-%23007ACC.svg?&style=for-the-badge&logo=typescript&logoColor=white" />
+  <!--<img src="https://img.shields.io/badge/javascript-%23F7DF1E.svg?&style=for-the-badge&logo=javascript&logoColor=black" />
+  <img src="https://img.shields.io/badge/typescript%20-%23007ACC.svg?&style=for-the-badge&logo=typescript&logoColor=white" />-->
   <img src="https://img.shields.io/badge/angular%20-%23DD0031.svg?&style=for-the-badge&logo=angular&logoColor=white" />
   <img src="https://img.shields.io/badge/-ionic%20-3880FF?logo=ionic&logoColor=white&style=for-the-badge" />
   <!--<img src="https://img.shields.io/badge/-html5%20-E34F26?logo=html5&logoColor=white&style=for-the-badge" />
