@@ -13,7 +13,7 @@ I'm a Web and Mobile Developer with 2+ years of experience in the software devel
 -->
 
 ## Work 👨🏻‍💻
-Currently I'm working as a Freelance Front-End Engineer at Search and Stay and as a Fulltime Web Developer at Ília, my prefered technologies are:
+Currently I'm working as a freelance Front-End Engineer at Search and Stay and as a full time Web Developer at Ília, my prefered technologies are:
 <p>
   <!--<img src="https://img.shields.io/badge/-java%20-E9E9E9?logo=java&logoColor=black&style=for-the-badge" />-->
 <!--   <img src="https://img.shields.io/badge/-spring%20-6DB33F?logo=spring&logoColor=white&style=for-the-badge" /> -->
