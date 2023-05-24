@@ -13,7 +13,7 @@ I'm a Web and Mobile Developer with 2+ years of experience in the software devel
 -->
 
 ## Work 👨🏻‍💻
-Currently I'm working as a freelance Front-End Engineer at Search and Stay and as a full time Web Developer at Ília, my prefered technologies are:
+Currently I'm working as a full time Web Developer at Ília, my prefered technologies are:
 <p>
   <!--<img src="https://img.shields.io/badge/-java%20-E9E9E9?logo=java&logoColor=black&style=for-the-badge" />-->
 <!--   <img src="https://img.shields.io/badge/-spring%20-6DB33F?logo=spring&logoColor=white&style=for-the-badge" /> -->
@@ -25,8 +25,8 @@ Currently I'm working as a freelance Front-End Engineer at Search and Stay and a
   <img src="https://img.shields.io/badge/react%20-%2320232a.svg?&style=for-the-badge&logo=react&logoColor=%2361DAFB" />
   <img src="https://img.shields.io/badge/Next.js%20-%23c9d3dd.svg?&style=for-the-badge&logo=next.js&logoColor=%23000" />
   
-  <img src="https://img.shields.io/badge/vue%20-%2334495e.svg?&style=for-the-badge&logo=vue.js&logoColor=%234FC08D" />
-  <img src="https://img.shields.io/badge/nuxt.js%20-%23001e26.svg?&style=for-the-badge&logo=nuxt.js&logoColor=%2300DC82" />
+<!--   <img src="https://img.shields.io/badge/vue%20-%2334495e.svg?&style=for-the-badge&logo=vue.js&logoColor=%234FC08D" /> -->
+<!--   <img src="https://img.shields.io/badge/nuxt.js%20-%23001e26.svg?&style=for-the-badge&logo=nuxt.js&logoColor=%2300DC82" /> -->
   
   <img src="https://img.shields.io/badge/dart-%230175C2.svg?&style=for-the-badge&logo=dart&logoColor=white" />
   <img src="https://img.shields.io/badge/flutter-%2302569B.svg?&style=for-the-badge&logo=flutter&logoColor=white" />
