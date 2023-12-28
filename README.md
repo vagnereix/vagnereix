@@ -2,7 +2,7 @@
 
 I'm Vagner, passionate about innovation and always looking to learn new technologies to provide creative and efficient solutions for my projects. My focus is on creating a great user experience, whether it's on a mobile or desktop device.
 
-I'm a Web and Mobile Developer with 2+ years of experience in the software development market, delivering complex and sophisticated solutions with due attention to detail, as well as a focus on improving customer workflow. A clean, performative and scalable code lover. 📈
+I'm a Web and Mobile Developer with 3+ years of experience in the software development market, delivering complex and sophisticated solutions with due attention to detail, as well as a focus on improving customer workflow. A clean, performative and scalable code lover. 📈
 
 <!--
 - :sparkles: Sou Full Stack JavaScript 
@@ -13,7 +13,7 @@ I'm a Web and Mobile Developer with 2+ years of experience in the software devel
 -->
 
 ## Work 👨🏻‍💻
-Currently I'm working as a full time Web Developer at Ília, my prefered technologies are:
+Currently I'm **OPEN TO WORK**, my prefered technologies are:
 <p>
   <!--<img src="https://img.shields.io/badge/-java%20-E9E9E9?logo=java&logoColor=black&style=for-the-badge" />-->
 <!--   <img src="https://img.shields.io/badge/-spring%20-6DB33F?logo=spring&logoColor=white&style=for-the-badge" /> -->
@@ -52,6 +52,7 @@ I appreciate a good coffee ☕, online games and sometimes a little physical act
 ## Feel free to contact me 📱
 [<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/vagnereix/)
 [<img src="https://img.shields.io/badge/mail%20me-%23EA4335.svg?&style=for-the-badge&logo=gmail&logoColor=white" />](mailto:vagnereix.dev@gmail.com?subject=&body=)
+[<img src="https://img.shields.io/badge/whatsapp-%2320232a.svg?&style=for-the-badge&logo=whatsapp&logoColor=lime" />](https://wa.me/5588998590736?text=Olá,%20venho%20do%20seu%20Github!)
 <!-- [<img src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" />](https://twitter.com/vagnereix_) -->
 <!-- [<img src="https://img.shields.io/badge/-Instagram-dc5273?style=for-the-badge&logo=Instagram&logoColor=white" />](https://www.instagram.com/vagnereix/) -->
 
