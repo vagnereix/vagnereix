@@ -1,7 +1,6 @@
-# Hi, there! 👋🏻
+# Hey! 💎
 
-I'm Vagner, looking to learn new technologies to provide creative and efficient solutions for my projects. Main focus on creating a great user experience, whether it's on a mobile or desktop device.
-3+ years as a software engineer, delivering complex and sophisticated solutions with due attention to detail.
+Vagner Reis, since 2021 as a Software Engineer focused on user-friendly applications, good-looking and most importantly, profitable digital products.
 
 <!--
 - :sparkles: Sou Full Stack JavaScript 
@@ -11,7 +10,7 @@ I'm Vagner, looking to learn new technologies to provide creative and efficient 
 - :boom: Converso sobre universo, ciência e crises existenciais mas não dispenso conversar sobre novelas e bbb 
 -->
 
-## Working with 👨🏻‍💻
+## Now working with 👨🏻‍💻
 <p>
   <!--<img src="https://img.shields.io/badge/-java%20-E9E9E9?logo=java&logoColor=black&style=for-the-badge" />-->
 <!--   <img src="https://img.shields.io/badge/-spring%20-6DB33F?logo=spring&logoColor=white&style=for-the-badge" /> -->
@@ -21,7 +20,7 @@ I'm Vagner, looking to learn new technologies to provide creative and efficient 
   <img src="https://img.shields.io/badge/ts%20-%23007ACC.svg?&style=for-the-badge&logo=typescript&logoColor=white" />
   <img src="https://img.shields.io/badge/react%20-%2320232a.svg?&style=for-the-badge&logo=react&logoColor=%2361DAFB" />
   <img src="https://img.shields.io/badge/Next.js%20-%23c9d3dd.svg?&style=for-the-badge&logo=next.js&logoColor=%23000" />
-  <img src="https://img.shields.io/badge/Go%20-%23007ACC.svg?&style=for-the-badge&logo=Go&logoColor=white" />
+<!--   <img src="https://img.shields.io/badge/Go%20-%23007ACC.svg?&style=for-the-badge&logo=Go&logoColor=white" /> -->
   
 <!--   <img src="https://img.shields.io/badge/vue%20-%2334495e.svg?&style=for-the-badge&logo=vue.js&logoColor=%234FC08D" /> -->
 <!--   <img src="https://img.shields.io/badge/nuxt.js%20-%23001e26.svg?&style=for-the-badge&logo=nuxt.js&logoColor=%2300DC82" /> -->
