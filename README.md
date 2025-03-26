@@ -1,4 +1,4 @@
-# Hey! ⚜️
+## Hey! ⚜️
 
 Vagner Reis, since 2021 as a Software Engineer focused on user-friendly applications, good-looking and most importantly, profitable digital products.
 
@@ -47,7 +47,7 @@ I appreciate a good coffee ☕, online games and sometimes a little physical act
 <!-- ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=vagnereix&show_icons=true&theme=radical) 
 ![Anurag's github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=vagnereix&hide=html&layout=compact&theme=dracula) -->
 
-## Feel free to contact me ⚡
+## Feel free to contact me 📨
 [<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/vagnereix/)
 [<img src="https://img.shields.io/badge/mail%20me-%23EA4335.svg?&style=for-the-badge&logo=gmail&logoColor=white" />](mailto:vagnereix.dev@gmail.com?subject=&body=)
 [<img src="https://img.shields.io/badge/whatsapp-%2320232a.svg?&style=for-the-badge&logo=whatsapp&logoColor=lime" />](https://wa.me/5588998590736?text=Olá,%20venho%20do%20seu%20Github!)
