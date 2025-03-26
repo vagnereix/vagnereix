@@ -1,4 +1,4 @@
-# Hey! 💎
+# Hey! ⚜️
 
 Vagner Reis, since 2021 as a Software Engineer focused on user-friendly applications, good-looking and most importantly, profitable digital products.
 
